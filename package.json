@@ -13,5 +13,8 @@
     "ejs": "^2.5.7",
     "express": "^4.15.3",
     "mongojs": "^2.4.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^1.4.1"
   }
 }
